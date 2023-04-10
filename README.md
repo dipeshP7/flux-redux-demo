@@ -9,3 +9,8 @@
 #create a store
 
 #add creating subclass code in control-panel file i.e. UserPrefsStore
+
+#create ReduceStore
+
+#install shortid - will generate a unquiue id
+yarn add shortid
